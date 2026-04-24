@@ -2,3 +2,6 @@
 backend/heritage.db
 backend/*.db
 *.db
+
+node_modules/
+frontend/node_modules/
