@@ -1,0 +1,7 @@
+﻿fastapi
+uvicorn[standard]
+sqlalchemy
+requests
+pillow
+numpy
+python-multipart
